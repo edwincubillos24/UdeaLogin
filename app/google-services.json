@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "63477314407",
+    "firebase_url": "https://udealogin.firebaseio.com",
+    "project_id": "udealogin",
+    "storage_bucket": "udealogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63477314407:android:f45cb52164689f7d",
+        "android_client_info": {
+          "package_name": "com.edwinacubillos.udealogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63477314407-ismgsao66rus0dr8k2i1up0sqdldq2rn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.edwinacubillos.udealogin",
+            "certificate_hash": "53E2FAC6A71DE8A94CB7AA8D9E11FE0DC29EF839"
+          }
+        },
+        {
+          "client_id": "63477314407-h76eso6f1869ppfpmsmp7nq3lu2emthj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhan2BBv-UjsQTkwlbnL9BPiaj-WaUaD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63477314407-h76eso6f1869ppfpmsmp7nq3lu2emthj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
